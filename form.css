@@ -1,0 +1,58 @@
+body{
+    background-color: dimgrey;
+    color: antiquewhite; 
+}
+h1{
+    color: green;
+}
+.size{
+    text-align: center;
+    
+
+
+}
+.textbox {
+    margin: 0 auto;
+    width: 217px;
+    
+}
+.textbox label{
+    display: inline-block;
+    text-align: right;
+    float: left;    
+}
+.textbox input{
+    display: inline-block;
+    text-align: left;
+    float: left;
+}
+.centre{
+text-align:center;
+background-color:black;
+padding: 10px;
+margin: auto;
+width: 35%;
+height: auto;
+}
+.btn
+{
+    background-color: blue;
+    padding: 5px 10px;
+    cursor: pointer;
+    text-align: center;
+    margin: 1px 0.5px;
+
+
+}
+.bss
+{
+    background-color: rgb(15, 148, 15);
+    padding: 5px 10px;
+    cursor: pointer;
+    text-align: center;
+    margin: 1px 0.5px;
+    
+
+}
+
+
